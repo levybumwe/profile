@@ -1,0 +1,2 @@
+<?php
+$city = "Nairobi";
